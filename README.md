@@ -1,6 +1,6 @@
 # Books to read before I die
 
-This is just a list of books that I found on my various journeys through the internet and found interesting.
+This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
 The books are split up into different categories and each book is prefixed by a to-do macro to indicate if I already read the book or still have to.
 If I'm in the middle of reading a certain book then there will probably be a little note attached which serves me as a bookmark or some notes about the book which I found interesting enough to write down separately.
 
@@ -20,8 +20,8 @@ I will probably replace the first point of a daily page goal with just a pomodor
 
 ## Time management and organization
 
-- [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by Staffan Noteberg
+- [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by **Staffan Noteberg**
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
-- [ ] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work
+- [ ] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
 	* **Bookmark:**  Page 69 - HOW CAN WE ARRANGE FOR EVERYONE TO ATTEND A MEETING?
-
+- [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
