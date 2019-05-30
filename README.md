@@ -78,6 +78,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Working Effectively with Legacy Code by **Michael Feathers**
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
 
+## Research
+
+- [ ] Researching Information Systems and Computing by **Briony J. Oates**
+
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
