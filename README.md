@@ -25,3 +25,8 @@ I will probably replace the first point of a daily page goal with just a pomodor
 - [ ] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
 	* **Bookmark:**  Page 69 - HOW CAN WE ARRANGE FOR EVERYONE TO ATTEND A MEETING?
 - [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
+- [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
+	* German version: Konzentriert arbeiten: Regeln für eine Welt voller Ablenkungen
+- [ ] A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by **Barbara Oakley**
+- [ ] The Power of Habit: Why We Do What We Do, and How to Change by **Charles Duhigg**
+	* German version: Die Macht der Gewohnheit: Warum wir tun, was wir tun
