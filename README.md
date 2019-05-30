@@ -56,6 +56,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
 - [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
+	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.
 - [ ] The 4-Hour Workweek by **Timothy Ferriss**
 
 ## Artificial Intelligence and Machine Learning
