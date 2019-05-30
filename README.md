@@ -17,6 +17,15 @@ I created this repository just for the purpose of creating a reading habit inspi
 I will probably replace the first point of a daily page goal with just a pomodoro session of 25mins because each book differs in its density and my own motivation also fluctuates. Therefore, to eliminate frustration by not reaching a certain page goal, I will just use a timeboxed method of 25mins to keep a maintainable reading pace.
 On the other hand, if you would read 20 pages a day that would sum up to 365 * 20 = 7300 pages in a year. If you read 25 pages a day that would sum up to 365 * 25 = 9125 pages in a year.
 
+For anyone who is interested in the Pomodoro technique, there are some books mentioned in the time management category. In its essence the Pomodoro technique has six objectives:
+
+1. Find out how much effort an activity requires
+2. Cut down on interruptions
+3. Estimate the effort required for activities
+4. Make the Pomodoro more effective
+5. Set up a timetable
+6. Define your own personal improvement objective
+
 
 
 ## Time management and organization
@@ -36,6 +45,17 @@ On the other hand, if you would read 20 pages a day that would sum up to 365 * 2
 - [ ] The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy by **Chris Bailey**
 - [ ] The Happiness Equation: Want Nothing + Do Anything=Have Everything by **Neil Pasricha**
 - [ ] So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by **Cal Newport**
+- [ ] Get Everything Done (And Still Have Time to Play) by **Mark Forster**
+- [ ] The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play by **Neil Fiore**
+- [ ] Flow: The Psychology of Optimal Experience by **Mihaly Csikszentmihalyi**
+- [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by **Stephen R. Covey**
+- [ ] Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe by **Tony Buzan**
+- [ ] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
+- [ ] Outliers: The Story of Success by **Malcolm Gladwell**
+- [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
+- [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
+- [ ] Getting Things Done: The Art of Stress-Free Productivity by ** David Allen**
+- [ ] 
 
 ## Artificial Intelligence and Machine Learning
 
