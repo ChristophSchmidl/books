@@ -55,7 +55,6 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by ** David Allen**
-- [ ] 
 
 ## Artificial Intelligence and Machine Learning
 
