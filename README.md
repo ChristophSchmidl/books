@@ -15,6 +15,7 @@ I created this repository just for the purpose of creating a reading habit inspi
 7. Be accountable to externalize your motivation.
 
 I will probably replace the first point of a daily page goal with just a pomodoro session of 25mins because each book differs in its density and my own motivation also fluctuates. Therefore, to eliminate frustration by not reaching a certain page goal, I will just use a timeboxed method of 25mins to keep a maintainable reading pace.
+On the other hand, if you would read 20 pages a day that would sum up to 365 * 20 = 7300 pages in a year. If you read 25 pages a day that would sum up to 365 * 25 = 9125 pages in a year.
 
 
 
@@ -30,3 +31,43 @@ I will probably replace the first point of a daily page goal with just a pomodor
 - [ ] A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by **Barbara Oakley**
 - [ ] The Power of Habit: Why We Do What We Do, and How to Change by **Charles Duhigg**
 	* German version: Die Macht der Gewohnheit: Warum wir tun, was wir tun
+- [ ] Spark: The Revolutionary New Science of Exercise and the Brain by **John J. Ratey**
+- [ ] Getting from College to Career Rev Ed: Your Essential Guide To Succeeding In The Real World by **Lindsey Pollak**
+- [ ] The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy by **Chris Bailey**
+- [ ] The Happiness Equation: Want Nothing + Do Anything=Have Everything by **Neil Pasricha**
+- [ ] So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by **Cal Newport**
+
+## Artificial Intelligence and Machine Learning
+
+- [ ] Pattern Recognition and Machine Learning by **Christopher M. Bishop**
+- [ ] Artificial Intelligence: A Modern Approach by **Stuart Russell**
+- [ ] Deep Learning by **Ian Goodfellow**
+- [ ] The Hundred-Page Machine Learning Book by **Andriy Burkov**
+- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
+- [ ] An Introduction to Statistical Learning: with Applications in R by **Gareth James**
+- [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition by **Trevor Hastie** 
+
+## Programming
+
+- [ ] Clean Code: A Handbook of Agile Software Craftsmanship by **Robert C. Martin**
+- [ ] The Clean Coder: A Code of Conduct for Professional Programmers by **Robert C. Martin**
+- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design by **Robert C. Martin**
+- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by **Martin Kleppmann**
+- [ ] Working Effectively with Legacy Code by **Michael Feathers**
+
+## Mathematics
+
+- [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
+	* **Bookmark:** page 34 - Probability distribution: Helping us to explicitly state our ignorance
+
+## Communication
+
+- [ ] Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life by **Michael Port**
+
+## Finance
+
+- [ ] Your Money: The Missing Manual by **J.D. Roth**
+
+## Others
+
+- [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
