@@ -100,4 +100,3 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
 - [ ] The Design of Everyday Things: Revised and Expanded Edition by **Don Norman**
-- [ ] 
