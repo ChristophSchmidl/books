@@ -55,6 +55,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
+- [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
 
 ## Artificial Intelligence and Machine Learning
 
@@ -86,6 +87,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Finance
 
 - [ ] Your Money: The Missing Manual by **J.D. Roth**
+
+## Business
+
+- [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
+
 
 ## Others
 
