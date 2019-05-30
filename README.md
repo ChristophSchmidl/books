@@ -56,6 +56,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
 - [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
+- [ ] The 4-Hour Workweek by **Timothy Ferriss**
 
 ## Artificial Intelligence and Machine Learning
 
@@ -74,6 +75,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design by **Robert C. Martin**
 - [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by **Martin Kleppmann**
 - [ ] Working Effectively with Legacy Code by **Michael Feathers**
+- [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
 
 ## Mathematics
 
@@ -91,8 +93,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Business
 
 - [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
-
+- [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
 ## Others
 
 - [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
+- [ ] The Design of Everyday Things: Revised and Expanded Edition by **Don Norman**
+- [ ] 
