@@ -20,6 +20,6 @@ I will probably replace the first point of a daily page goal with just a pomodor
 
 ## Time management
 
--[x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by Staffan Noteberg
+- [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by Staffan Noteberg
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
 
