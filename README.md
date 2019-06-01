@@ -33,7 +33,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by **Staffan Noteberg**
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
 - [ ] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
-	* **Bookmark:**  Page 69 - HOW CAN WE ARRANGE FOR EVERYONE TO ATTEND A MEETING?
+	* **Bookmark:**  Page 88 - The practice of the ram
 - [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
 	* German version: Konzentriert arbeiten: Regeln für eine Welt voller Ablenkungen
