@@ -100,7 +100,23 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
+## Novels
+
+- [ ] 1984 by **George Orwell**
+- [ ] Animal Farm by **George Orwell**
+- [ ] War of the Worlds by **H G Wells**
+- [ ] The Time Machine by **H G Wells**
+- [ ] The 'Foundation' trilogy by **Isaac Asimov**
+- [ ] The Hitchhiker's Guide to the Galaxy by **Douglas Adams**
+
 ## Others
 
 - [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
 - [ ] The Design of Everyday Things: Revised and Expanded Edition by **Don Norman**
+- [ ] Life 3.0: Being Human in the Age of Artificial Intelligence by **Max Tegmark**
+- [ ] AI Superpowers (International Edition): China, Silicon Valley, and the New World Order by **Kai-Fu Lee** 
+- [ ] Architects of Intelligence: The truth about AI from the people building it by **Martin Ford**
+- [ ] Superintelligence: Paths, Dangers, Strategies by **Nick Bostrom**
+- [ ] How to Create a Mind: The Secret of Human Thought Revealed by **Ray Kurzweil**
+- [ ] Structures: Or Why Things Don't Fall Down by **J. E. Gordon**
+- [ ] Our Final Invention: Artificial Intelligence and the End of the Human Era by **James Barrat**
