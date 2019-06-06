@@ -120,3 +120,4 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] How to Create a Mind: The Secret of Human Thought Revealed by **Ray Kurzweil**
 - [ ] Structures: Or Why Things Don't Fall Down by **J. E. Gordon**
 - [ ] Our Final Invention: Artificial Intelligence and the End of the Human Era by **James Barrat**
+- [ ] The Book of Why by **Judea Pearl**
