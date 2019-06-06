@@ -121,3 +121,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Structures: Or Why Things Don't Fall Down by **J. E. Gordon**
 - [ ] Our Final Invention: Artificial Intelligence and the End of the Human Era by **James Barrat**
 - [ ] The Book of Why by **Judea Pearl**
+- [ ] Surely You're Joking, My. Feynman: Adventures of a Curious Character by **Richard P. Feynman**
+	* German version: Sie belieben wohl zu scherzen, Mr. Feynman!: Abenteuer eines neugierigen Physikers by **Edward Hutchings, Richard P. Feynman**
+- [ ] The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman by **Richard P. Feynman**
+- [ ] Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by **Richard P. Feynman**
+- [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time **Richard P. Feynman**
