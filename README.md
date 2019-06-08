@@ -81,7 +81,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 71 - Reviewing the literature
+	* **Bookmark:** page 78 - Gateways
 
 ## Mathematics
 
