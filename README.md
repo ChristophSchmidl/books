@@ -92,7 +92,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
 	* **Bookmark:** page 34 - Probability distribution: Helping us to explicitly state our ignorance
-- [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by ** K. F. Riley**	
+- [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**	
 
 ## Communication
 
