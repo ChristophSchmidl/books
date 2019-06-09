@@ -58,6 +58,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
 	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.
 - [ ] The 4-Hour Workweek by **Timothy Ferriss**
+- [ ] The Organized Mind: Thinking Straight in the Age of Information Overload by **Daniel Levitin**
+- [ ] Ego is the Enemy: The Fight to Master Our Greatest Opponent by **Ryan Holiday**
+- [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
+- [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
+- [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 
 ## Artificial Intelligence and Machine Learning
 
