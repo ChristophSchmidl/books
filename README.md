@@ -50,7 +50,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by **Stephen R. Covey**
 - [ ] Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe by **Tony Buzan**
 - [ ] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
-	* **Bookmark:** page 32 - Small questions for others
+	* **Bookmark:** page 44 - Take small actions
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
@@ -86,7 +86,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 93 - Surveys
+	* **Bookmark:** page 101 - Grounded theory and surveys
 
 ## Mathematics
 
