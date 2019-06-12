@@ -1,5 +1,10 @@
 # Books to read before I die
 
+**Current page count:** 475
+
+**Current book count:** 2
+
+
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
 The books are split up into different categories and each book is prefixed by a to-do macro to indicate if I already read the book or still have to.
 If I'm in the middle of reading a certain book then there will probably be a little note attached which serves me as a bookmark or some notes about the book which I found interesting enough to write down separately.
@@ -27,8 +32,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 6. Define your own personal improvement objective
 
 
-**Current page count:** 475
-**Current book count:** 2
+
 
 
 ## Time management and organization
