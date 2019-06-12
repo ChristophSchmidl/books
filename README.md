@@ -27,6 +27,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 6. Define your own personal improvement objective
 
 
+**Current page count:** 475
+**Current book count:** 2
+
 
 ## Time management and organization
 
