@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 475
+**Current page count:** 491
 
 **Current book count:** 2
 
@@ -39,7 +39,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by **Staffan Noteberg**
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
+	* 153 pages
 - [x] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
+	* 118 paages
 - [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
 	* German version: Konzentriert arbeiten: Regeln für eine Welt voller Ablenkungen
@@ -93,7 +95,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 111 - Planning and Conducting Design and Creation Research
+	* **Bookmark:** page 116 - Use of data generation methods
 
 ## Mathematics
 
