@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 491
+**Current page count:** 625
 
-**Current book count:** 2
+**Current book count:** 3
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -35,7 +35,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 
 
-## Time management and organization
+## Time management, organization and motivation
 
 - [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by **Staffan Noteberg**
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
@@ -58,8 +58,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Flow: The Psychology of Optimal Experience by **Mihaly Csikszentmihalyi**
 - [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by **Stephen R. Covey**
 - [ ] Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe by **Tony Buzan**
-- [ ] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
-	* **Bookmark:** page 70 - Bestow Small Rewards
+- [x] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
+	* 204 pages
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
@@ -72,6 +72,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
+- [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
+	* **Bookmark:** page 13 - Introduction
 
 ## Artificial Intelligence and Machine Learning
 
