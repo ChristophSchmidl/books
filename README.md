@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 625
+**Current page count:** 676
 
 **Current book count:** 3
 
@@ -97,7 +97,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 116 - Use of data generation methods
+	* **Bookmark:** page 126 - Experiments
 
 ## Mathematics
 
