@@ -73,7 +73,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
-	* **Bookmark:** page 80 - Chapter 5 "The power of focus"
+	* **Bookmark:** page 101 - Chapter 6 "Persistence"
 
 ## Artificial Intelligence and Machine Learning
 
