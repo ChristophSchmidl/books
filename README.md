@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 718
+**Current page count:** 742
 
 **Current book count:** 3
 
@@ -97,7 +97,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 129 - Independent and dependent variables
+	* **Bookmark:** page 132 - Internal Validity
 
 ## Mathematics
 
