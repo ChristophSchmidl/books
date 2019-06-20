@@ -73,7 +73,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
-	* **Bookmark:** page 122 - Chapter 7 "Endurance"
+	* **Bookmark:** page 146 - Chapter 8 "The 1% Blueprint"
 
 ## Artificial Intelligence and Machine Learning
 
@@ -118,6 +118,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Business
 
 - [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
+- [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
 ## Novels
@@ -146,3 +147,4 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman by **Richard P. Feynman**
 - [ ] Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by **Richard P. Feynman**
 - [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time **Richard P. Feynman**
+- [ ] How to Ikigai: Lessons for Finding Happiness and Living Your Life's Purpose by **Tim Tamashiro**
