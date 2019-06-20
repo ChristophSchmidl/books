@@ -99,7 +99,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 141 - Chapter 10 "Case Studies"
+	* **Bookmark:** page 144 - Planning and conducting case studies
 
 ## Mathematics
 
