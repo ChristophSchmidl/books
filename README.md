@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 861
+**Current page count:** 888
 
 **Current book count:** 3
 
