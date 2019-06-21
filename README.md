@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 888
+**Current page count:** 936
 
 **Current book count:** 3
 
@@ -73,7 +73,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
-	* **Bookmark:** page 146 - Chapter 8 "The 1% Blueprint"
+	* **Bookmark:** page 194 - Chapter 10 "Reverse engineer your success"
 
 ## Artificial Intelligence and Machine Learning
 
