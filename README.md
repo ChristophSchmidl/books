@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 936
+**Current page count:** 980
 
 **Current book count:** 3
 
@@ -93,8 +93,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by **Martin Kleppmann**
 - [ ] Working Effectively with Legacy Code by **Michael Feathers**
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
+- [ ] The Pragmatic Programmer. From Journeyman to Master by **Andrew Hunt**
 - [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
-	* **Bookmark:** page 89 - Chapter 22 "Remember Who You Work For"
+	* **Bookmark:** page 133 - Chapter 33 "Perceptions, Perschmeptions"
 
 ## Research
 
