@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 980
+**Current page count:** 1031
 
 **Current book count:** 3
 
@@ -73,7 +73,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
-	* **Bookmark:** page 194 - Chapter 10 "Reverse engineer your success"
+	* **Bookmark:** page 219 - Chapter 11 "The Roadblocks"
 
 ## Artificial Intelligence and Machine Learning
 
@@ -95,18 +95,21 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
 - [ ] The Pragmatic Programmer. From Journeyman to Master by **Andrew Hunt**
 - [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
-	* **Bookmark:** page 133 - Chapter 33 "Perceptions, Perschmeptions"
+	* **Bookmark:** page 149 - Chapter 39 "Let your voice be heard"
 
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 144 - Planning and conducting case studies
+	* **Bookmark:** page 154 - Chapter 11 "Action Research"
 
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
 	* **Bookmark:** page 34 - Probability distribution: Helping us to explicitly state our ignorance
-- [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**	
+- [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
+- [ ] Calculus for Dummies by **Mark Ryan**
+- [ ] Calculus Workbook For Dummies by **Mark Ryan**
+- [ ] Calculus made easy by **Silvanus Thompson**
 
 ## Communication
 
