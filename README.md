@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1049
+**Current page count:** 1070
 
 **Current book count:** 3
 
@@ -95,7 +95,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
 - [ ] The Pragmatic Programmer. From Journeyman to Master by **Andrew Hunt**
 - [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
-	* **Bookmark:** page 149 - Chapter 39 "Let your voice be heard"
+	* **Bookmark:** page 170 - Chapter 44 "Already Obsolete"
 
 ## Research
 
