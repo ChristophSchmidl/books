@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1074
+**Current page count:** 1102
 
-**Current book count:** 3
+**Current book count:** 4
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -95,8 +95,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Working Effectively with Legacy Code by **Michael Feathers**
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by **Steve Krug**
 - [ ] The Pragmatic Programmer. From Journeyman to Master by **Andrew Hunt**
-- [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
-	* **Bookmark:** page 170 - Chapter 44 "Already Obsolete"
+- [x] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
+	* 198 pages
 
 ## Research
 
