@@ -102,6 +102,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
 	* **Bookmark:** page 158 - "Mutually acceptable research protocol"
+- [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
 
