@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1102
+**Current page count:** 1171
 
-**Current book count:** 4
+**Current book count:** 5
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -73,8 +73,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
-- [ ] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
-	* **Bookmark:** page 237 - Chapter 12 "Urgency and Accountability"
+- [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
+	* 306 pages
 
 ## Artificial Intelligence and Machine Learning
 
