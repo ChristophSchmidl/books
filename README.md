@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1188
+**Current page count:** 1198
 
 **Current book count:** 5
 
@@ -61,7 +61,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
 	* 204 pages
 - [ ] The Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time by **Robert Maurer**
-	* **Bookmark:**	Page 17 - Chapter 2 "Boost Morale"
+	* **Bookmark:**	Page 27 - Chapter 2 "Cut costs"
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
