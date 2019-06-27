@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1198
+**Current page count:** 1213
 
 **Current book count:** 5
 
@@ -76,6 +76,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
+- [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
 
 ## Artificial Intelligence and Machine Learning
 
@@ -102,7 +103,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 158 - "Mutually acceptable research protocol"
+	* **Bookmark:** page 173 - Chapter 12 "Ethnography"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
