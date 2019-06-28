@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1224
+**Current page count:** 1227
 
 **Current book count:** 5
 
@@ -103,7 +103,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 175 - Chapter 12 "Types of Ethnogtaphy"
+	* **Bookmark:** page 178 - Chapter 12 "Reflexivity"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
