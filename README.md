@@ -99,6 +99,15 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Pragmatic Programmer. From Journeyman to Master by **Andrew Hunt**
 - [x] The Passionate Programmer: Creating a Remarkable Career in Software Development by **Chad Fowler**
 	* 198 pages
+- [ ] Refactoring: Improving the Design of Existing Code by **Martin Fowler**
+- [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by **Jez Humble**	
+- [ ] Continuous Integration: Improving Software Quality and Reducing Risk by **Paul M. Duvall**
+- [ ] Agile Testing: A Practical Guide for Testers and Agile Teams by **Lisa Crispin**
+- [ ] More Agile Testing: Learning Journeys for the Whole Team by **Janet Gregory**
+- [ ] Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by **Lyssa Adkins**
+- [ ] User Stories Applied: For Agile Software Development by **Mike Cohn**
+- [ ] Extreme Programming Explained: Embrace Change by **Kent Beck**
+
 
 ## Research
 
@@ -140,6 +149,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Others
 
+- [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by **Gene Kim**
 - [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
 - [ ] The Design of Everyday Things: Revised and Expanded Edition by **Don Norman**
 - [ ] Life 3.0: Being Human in the Age of Artificial Intelligence by **Max Tegmark**
