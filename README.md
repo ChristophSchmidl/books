@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1232
+**Current page count:** 1243
 
 **Current book count:** 5
 
@@ -61,7 +61,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
 	* 204 pages
 - [ ] The Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time by **Robert Maurer**
-	* **Bookmark:**	Page 39 - Chapter 4 "MENTAL BLINDFOLD 1: BUT WE GET SO MANY THINGS RIGHT!”
+	* **Bookmark:**	Page 44 - Chapter 5 "Develop new products and services”
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
@@ -87,6 +87,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
 - [ ] An Introduction to Statistical Learning: with Applications in R by **Gareth James**
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition by **Trevor Hastie** 
+- [ ] AI for Games, Third Edition by **Ian Millington**
+- [ ] Artificial Intelligence for Games by **Ian Millington**
 
 ## Programming
 
@@ -107,12 +109,22 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by **Lyssa Adkins**
 - [ ] User Stories Applied: For Agile Software Development by **Mike Cohn**
 - [ ] Extreme Programming Explained: Embrace Change by **Kent Beck**
+- [ ] Software Architecture Fundamentals: A Study Guide for the Certified Professional for Software Architecture® – Foundation Level – iSAQB compliant by **Mahbouba Gharbi**
+- [ ] Designing Software Architectures: A Practical Approach by **Humberto Cervantes**
+- [ ] Patterns of Enterprise Application Architecture by **Martin Fowler**
+- [ ] Design Patterns. Elements of Reusable Object-Oriented Software by **Erich Gamma** 
 
+
+## Game Development
+
+- [ ] Game Programming Patterns by **Robert Nystrom**
+- [ ] Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game. by **Ian Millington**
+- [ ] Game Engine Architecture, Second Edition by **Jason Gregory**
 
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 180 - Chapter 12 "The Internet and Ethnography"
+	* **Bookmark:** page 186 - Chapter 13 "Interviews"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
@@ -123,6 +135,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
 - [ ] Calculus made easy by **Silvanus Thompson**
+- [ ] Foundations of Game Engine Development, Volume 1: Mathematics by **Eric Lengyel**
+- [ ] Mathematics for 3D Game Programming and Computer Graphics by **Eric Lengyel**
+- [ ] 3D Math Primer for Graphics and Game Development by **Fletcher Dunn**
 
 ## Communication
 
