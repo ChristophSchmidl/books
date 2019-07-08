@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1276
+**Current page count:** 1291
 
-**Current book count:** 5
+**Current book count:** 6
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -60,8 +60,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe by **Tony Buzan**
 - [x] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
 	* 204 pages
-- [ ] The Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time by **Robert Maurer**
-	* **Bookmark:**	Page 67 - Chapter 7 "Small steps for better eating”
+- [x] The Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time by **Robert Maurer**
+	* 82 pages
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
