@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1413
+**Current page count:** 1431
 
 **Current book count:** 6
 
@@ -135,7 +135,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
 - [ ] Calculus made easy by **Silvanus Thompson**
-	* **Bookmark:** page 34 - Chapter 5 "Sums, Differences, Products and Quotients"
+	* **Bookmark:** page 52 - Chapter 8 "When time varies"
 - [ ] Foundations of Game Engine Development, Volume 1: Mathematics by **Eric Lengyel**
 - [ ] Mathematics for 3D Game Programming and Computer Graphics by **Eric Lengyel**
 - [ ] 3D Math Primer for Graphics and Game Development by **Fletcher Dunn**
