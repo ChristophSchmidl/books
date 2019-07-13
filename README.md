@@ -139,6 +139,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Foundations of Game Engine Development, Volume 1: Mathematics by **Eric Lengyel**
 - [ ] Mathematics for 3D Game Programming and Computer Graphics by **Eric Lengyel**
 - [ ] 3D Math Primer for Graphics and Game Development by **Fletcher Dunn**
+- [ ] Introduction to Linear Algebra by **Gilbert Strang**
+- [ ] Differential Equations and Linear Algebra by **Gilbert Strang**
+- [ ] Linear Algebra and Learning from Data by **Gilbert Strang**
+- [ ] Computational Science and Engineering by **Gilbert Strang**
 
 ## Communication
 
