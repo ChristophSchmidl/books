@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1574
+**Current page count:** 1592
 
 **Current book count:** 6
 
@@ -124,7 +124,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 208 - Chapter 14 "Observations - Planning and Conducting Participant Observation"
+	* **Bookmark:** page 211 - Chapter 14 "Observations - Validity"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
@@ -135,7 +135,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
 - [ ] Calculus made easy by **Silvanus Thompson**
-	* **Bookmark:** page 189 - Chapter 18 "Integrating as the Reverse of Differentiating"
+	* **Bookmark:** page 204 - Chapter 19 "On Finding Areas by Integrating"
 - [ ] Foundations of Game Engine Development, Volume 1: Mathematics by **Eric Lengyel**
 - [ ] Mathematics for 3D Game Programming and Computer Graphics by **Eric Lengyel**
 - [ ] 3D Math Primer for Graphics and Game Development by **Fletcher Dunn**
