@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1592
+**Current page count:** 1636
 
-**Current book count:** 6
+**Current book count:** 7
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -134,8 +134,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
-- [ ] Calculus made easy by **Silvanus Thompson**
-	* **Bookmark:** page 204 - Chapter 19 "On Finding Areas by Integrating"
+- [x] Calculus made easy by **Silvanus Thompson**
+	* 248 pages
 - [ ] Foundations of Game Engine Development, Volume 1: Mathematics by **Eric Lengyel**
 - [ ] Mathematics for 3D Game Programming and Computer Graphics by **Eric Lengyel**
 - [ ] 3D Math Primer for Graphics and Game Development by **Fletcher Dunn**
