@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1636
+**Current page count:** 1639
 
 **Current book count:** 7
 
@@ -124,7 +124,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 211 - Chapter 14 "Observations - Validity"
+	* **Bookmark:** page 214 - Chapter 14 "Observations - Evaluating Observation-based Research"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
