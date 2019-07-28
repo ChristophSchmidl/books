@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1639
+**Current page count:** 1644
 
 **Current book count:** 7
 
@@ -80,6 +80,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Artificial Intelligence and Machine Learning
 
+- [ ] Artificial Intelligence: Foundations of Computational Agents (2nd Edition) by **David L. Poole and Alan K. Mackworth**
 - [ ] Pattern Recognition and Machine Learning by **Christopher M. Bishop**
 - [ ] Artificial Intelligence: A Modern Approach by **Stuart Russell**
 - [ ] Deep Learning by **Ian Goodfellow**
@@ -124,7 +125,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
-	* **Bookmark:** page 214 - Chapter 14 "Observations - Evaluating Observation-based Research"
+	* **Bookmark:** page 219 - Chapter 15 "Questionnaires"
 - [ ] A PhD Is Not Enough!: A Guide to Survival in Science by **Peter J. Feibelman**	
 
 ## Mathematics
