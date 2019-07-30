@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1630
+**Current page count:** 1631
 
 **Current book count:** 7
 
@@ -132,7 +132,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
-	* **Bookmark:** page 12 - Chapter 2 "The subjective Worlds of Frequentist and Bayesian Statistics"
+	* **Bookmark:** page 13 - Chapter 2 "The subjective Worlds of Frequentist and Bayesian Statistics"
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
