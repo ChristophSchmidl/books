@@ -86,11 +86,23 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Artificial Intelligence: A Modern Approach by **Stuart Russell**
 - [ ] Deep Learning by **Ian Goodfellow**
 - [ ] The Hundred-Page Machine Learning Book by **Andriy Burkov**
-- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
 - [ ] An Introduction to Statistical Learning: with Applications in R by **Gareth James**
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition by **Trevor Hastie** 
 - [ ] AI for Games, Third Edition by **Ian Millington**
 - [ ] Artificial Intelligence for Games by **Ian Millington**
+- [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
+- [ ] Learning TensorFlow: A Guide to Building Deep Learning Systems by **Tom Hope**
+- [ ] Machine Learning with Python Cookbook: Practical solutions from preprocessing to deep learning by **Chris Albon**
+- [ ] Deep Learning Cookbook: Practical recipes to get started quickly by **Douwe Osinga**
+- [ ] Statistics for Data Scientists: 50 Essential Concepts by **Peter Bruce**
+- [ ] Applied Text Analysis with Python: Enabling Language Aware Data Products with Machine Learning by **Benjamin Bengfort**
+- [ ] Feature Engineering for Machine Learning Models: Principles and Techniques for Data Scientists by **Alice Zheng**
+- [ ] Machine Learning with TensorFlow by **Nishant Shukla**
+- [ ] Hands-On Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data by **Ankur A. Patel**
+- [ ] Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by **Sebastian Raschka**
+- [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by **Sarah Guido**
+- [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
+- [ ] Make your own Neural Network by **Tariq Rashid**
 
 ## Programming
 
