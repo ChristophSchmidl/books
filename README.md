@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1631
+**Current page count:** 1842
 
-**Current book count:** 7
+**Current book count:** 8
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -102,7 +102,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by **Sebastian Raschka**
 - [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by **Sarah Guido**
 - [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
-- [ ] Make your own Neural Network by **Tariq Rashid**
+- [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
 
 ## Programming
 
