@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 1842
+**Current page count:** 1854
 
 **Current book count:** 8
 
@@ -127,7 +127,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Designing Software Architectures: A Practical Approach by **Humberto Cervantes**
 - [ ] Patterns of Enterprise Application Architecture by **Martin Fowler**
 - [ ] Design Patterns. Elements of Reusable Object-Oriented Software by **Erich Gamma** 
-
+- [ ] Operating System Concepts (Ninth Edition) by **Abraham Silberschatz et al**
+	* **Bookmark:** page 12 - Chapter 1.3 "Computer-System Architecture"
 
 ## Game Development
 
