@@ -103,6 +103,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by **Sarah Guido**
 - [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
 - [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
+- [ ] Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R by **Pratap Dangeti**
 
 ## Programming
 
