@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 1854
+**Current page count:** 2111
 
-**Current book count:** 8
+**Current book count:** 9
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -77,6 +77,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
+- [x] Die Gesetze der Gewinner by **Bodo Schäfer**
+	* 247
 
 ## Artificial Intelligence and Machine Learning
 
@@ -104,6 +106,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
 - [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
 - [ ] Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R by **Pratap Dangeti**
+- [ ] Machine Learning: An Applied Mathematics Introduction by **Paul Wilmott**
+	* **Bookmark** page 10
 
 ## Programming
 
