@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 2111
+**Current page count:** 2255
 
-**Current book count:** 9
+**Current book count:** 10
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -78,7 +78,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
 - [x] Die Gesetze der Gewinner by **Bodo Schäfer**
-	* 247
+	* 247 pages
+- [x] Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time **Brian Tracy**
+	* 144 pages
 
 ## Artificial Intelligence and Machine Learning
 
@@ -105,6 +107,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by **Sarah Guido**
 - [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
 - [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
+	* 222 pages
 - [ ] Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R by **Pratap Dangeti**
 - [ ] Machine Learning: An Applied Mathematics Introduction by **Paul Wilmott**
 	* **Bookmark** page 10
@@ -208,3 +211,5 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by **Richard P. Feynman**
 - [ ] Six Not-So-Easy Pieces: Einstein's Relativity, Symmetry, and Space-Time **Richard P. Feynman**
 - [ ] How to Ikigai: Lessons for Finding Happiness and Living Your Life's Purpose by **Tim Tamashiro**
+- [ ] The Art of Deception: Controlling the Human Element of Security by **Kevin D. Mitnick**
+- [ ] The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers by **Kevin D. Mitnick**
