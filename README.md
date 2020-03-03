@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 2255
+**Current page count:** 2501
 
-**Current book count:** 10
+**Current book count:** 11
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -79,8 +79,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
 - [x] Die Gesetze der Gewinner by **Bodo Schäfer**
 	* 247 pages
-- [x] Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time **Brian Tracy**
+- [x] Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by **Brian Tracy**
 	* 144 pages
+- [x] Der Erfolg ist in dir! by **Dale Carnegie**
+	* 266 pages
 
 ## Artificial Intelligence and Machine Learning
 
