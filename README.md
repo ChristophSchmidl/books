@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 2501
+**Current page count:** 2717
 
-**Current book count:** 11
+**Current book count:** 12
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -83,6 +83,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 144 pages
 - [x] Der Erfolg ist in dir! by **Dale Carnegie**
 	* 266 pages
+- [ ] Das Glück der kleinen Dinge by **Victoria Moran**	
 
 ## Artificial Intelligence and Machine Learning
 
@@ -111,8 +112,13 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
 	* 222 pages
 - [ ] Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R by **Pratap Dangeti**
-- [ ] Machine Learning: An Applied Mathematics Introduction by **Paul Wilmott**
-	* **Bookmark** page 10
+- [x] Machine Learning: An Applied Mathematics Introduction by **Paul Wilmott**
+	* 216 pages
+- [ ] Genetic Algorithms and Machine Learning for Programmers: Create AI Models and Evolve Solutions (Pragmatic Programmers) by **Frances Buontempo**	
+- [ ] Advances in Financial Machine Learning by **Marcos Lopez de Prado**
+- [ ] Hands-On Machine Learning for Algorithmic Trading: Design and implement investment strategies based on smart algorithms that learn from data using Python by **Stefan Jansen**
+- [ ] Machine Learning for Finance: Principles and practice for financial insiders by **Jannes Klaas**
+
 
 ## Programming
 
@@ -139,6 +145,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Design Patterns. Elements of Reusable Object-Oriented Software by **Erich Gamma** 
 - [ ] Operating System Concepts (Ninth Edition) by **Abraham Silberschatz et al**
 	* **Bookmark:** page 12 - Chapter 1.3 "Computer-System Architecture"
+- [ ] Trading Evolved: Anyone can Build Killer Trading Strategies in Python by **Andreas F. Clenow**
+- [ ] Python for Finance: Mastering Data-Driven Finance by **Yves Hilpisch**
+- [ ] Mastering Python for Finance: Implement advanced state-of-the-art financial statistical applications using Python, 2nd Edition by **James Ma Weiming**
 
 ## Game Development
 
@@ -170,6 +179,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Computational Science and Engineering by **Gilbert Strang**
 - [ ] Bayesian Data Analysis (Chapman & Hall / CRC Texts in Statistical Science) by **Andrew Gelman**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
+- [ ] Paul Wilmott Introduces Quantitative Finance by **Paul Wilmott**
 
 ## Communication
 
@@ -185,6 +195,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
+
 ## Novels
 
 - [ ] 1984 by **George Orwell**
@@ -196,6 +207,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Others
 
+- [ ] A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market by **Edward O. Thorp**
+- [ ] The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution by **Gregory Zuckerman**
 - [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by **Gene Kim**
 - [ ] The Victorian Internet: The Remarkable Story of the Telegraph and the Nineteenth Century's On-line Pioneers by **Tom Standage**
 - [ ] The Design of Everyday Things: Revised and Expanded Edition by **Don Norman**
