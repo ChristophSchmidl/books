@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 2717
+**Current page count:** 2964
 
-**Current book count:** 12
+**Current book count:** 13
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -83,7 +83,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 144 pages
 - [x] Der Erfolg ist in dir! by **Dale Carnegie**
 	* 266 pages
-- [ ] Das Glück der kleinen Dinge by **Victoria Moran**	
+- [x] Das Glück der kleinen Dinge by **Victoria Moran**	
+	* 247 pages
 
 ## Artificial Intelligence and Machine Learning
 
