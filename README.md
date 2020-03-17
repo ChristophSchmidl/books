@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 2964
+**Current page count:** 3250
 
 **Current book count:** 13
 
@@ -43,6 +43,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [x] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
 	* 118 paages
 - [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
+	* Bookmark: page 147
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
 	* German version: Konzentriert arbeiten: Regeln für eine Welt voller Ablenkungen
 - [ ] A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by **Barbara Oakley**
@@ -74,6 +75,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
+- [ ] Thinking, Fast and Slow by **Daniel Kahneman**
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
@@ -165,7 +167,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
-	* **Bookmark:** page 13 - Chapter 2 "The subjective Worlds of Frequentist and Bayesian Statistics"
+	* **Bookmark:** page 151
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
