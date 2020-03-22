@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 3250
+**Current page count:** 3413
 
-**Current book count:** 13
+**Current book count:** 14
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -42,8 +42,12 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 153 pages
 - [x] The Pomodoro Technique: The Acclaimed Time-Management System That Has Transformed How We Work by **Francesco Cirillo**
 	* 118 paages
-- [ ] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
-	* Bookmark: page 147
+- [x] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
+	* 259 pages
+- [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
+	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.	
+- [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**	
+- [ ] How to Study in College by **Ross J.Q. Owens and Pauk, Walter**	
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
 	* German version: Konzentriert arbeiten: Regeln für eine Welt voller Ablenkungen
 - [ ] A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) by **Barbara Oakley**
@@ -63,19 +67,18 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 204 pages
 - [x] The Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time by **Robert Maurer**
 	* 164 pages
+- [ ] How to Solve it: A New Aspect of Mathematical Method by **John H. Conway and Georg Polya**		
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
-- [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
-	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.
 - [ ] The 4-Hour Workweek by **Timothy Ferriss**
 - [ ] The Organized Mind: Thinking Straight in the Age of Information Overload by **Daniel Levitin**
 - [ ] Ego is the Enemy: The Fight to Master Our Greatest Opponent by **Ryan Holiday**
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
-- [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] Thinking, Fast and Slow by **Daniel Kahneman**
+- [ ] How to Read a Book by **Mortimer J. Adler and Charles Van Doren**
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
@@ -168,6 +171,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
 	* **Bookmark:** page 151
+- [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
+- [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
@@ -183,6 +188,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Bayesian Data Analysis (Chapman & Hall / CRC Texts in Statistical Science) by **Andrew Gelman**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Paul Wilmott Introduces Quantitative Finance by **Paul Wilmott**
+
+## Physics
+
+- [ ] Classical Mechanics: The Theoretical Minimum (Theoretical Minimum 1) by **Leonard Susskind and George Hrabovsky**
 
 ## Communication
 
