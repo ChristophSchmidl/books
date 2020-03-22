@@ -161,7 +161,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game. by **Ian Millington**
 - [ ] Game Engine Architecture, Second Edition by **Jason Gregory**
 
-## Research
+## General Research
 
 - [ ] Researching Information Systems and Computing by **Briony J. Oates**
 	* **Bookmark:** page 219 - Chapter 15 "Questionnaires"
@@ -170,7 +170,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
-	* **Bookmark:** page 151
+	* **Bookmark:** page 216
 - [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
@@ -192,6 +192,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Physics
 
 - [ ] Classical Mechanics: The Theoretical Minimum (Theoretical Minimum 1) by **Leonard Susskind and George Hrabovsky**
+
+## Medicine
+
+- [ ] Sportanatomie by **Thorsten Gehrke**
+
 
 ## Communication
 
@@ -219,6 +224,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Others
 
+- [ ] Never Split the Difference: Negotiating as if Your Life Depended on It by **Chris Voss**
 - [ ] A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market by **Edward O. Thorp**
 - [ ] The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution by **Gregory Zuckerman**
 - [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by **Gene Kim**
