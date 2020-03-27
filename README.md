@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 3413
+**Current page count:** 3771
 
-**Current book count:** 14
+**Current book count:** 15
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -44,8 +44,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 118 paages
 - [x] Pragmatic Thinking and Learning: Refactor Your Wetware (Pragmatic Programmers) by **Andy Hunt**
 	* 259 pages
-- [ ] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
+- [x] The First 20 Hours: How to Learn Anything . . . Fast! by **Josh Kaufman**
+	* 288 pages
 	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.	
+	* Note: Not worth the money. Way too long while the essentials could have been written on maybe 30 pages
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**	
 - [ ] How to Study in College by **Ross J.Q. Owens and Pauk, Walter**	
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
@@ -79,6 +81,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Force of Habit: Unleash Your Power By Developing Great Habits by **Tamsin Astor**
 - [ ] Thinking, Fast and Slow by **Daniel Kahneman**
 - [ ] How to Read a Book by **Mortimer J. Adler and Charles Van Doren**
+- [ ] The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness by **Jonas Salzgeber**
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
@@ -154,6 +157,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Trading Evolved: Anyone can Build Killer Trading Strategies in Python by **Andreas F. Clenow**
 - [ ] Python for Finance: Mastering Data-Driven Finance by **Yves Hilpisch**
 - [ ] Mastering Python for Finance: Implement advanced state-of-the-art financial statistical applications using Python, 2nd Edition by **James Ma Weiming**
+- [ ] Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by **Harry Percival**
+- [ ] Becoming a Better Programmer: A Handbook for People Who Care About Code by **Pete Goodliffe**
 
 ## Game Development
 
@@ -173,6 +178,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* **Bookmark:** page 216
 - [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
+- [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
@@ -224,6 +230,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Others
 
+- [ ] Yoga Anatomy by **Leslie Kaminoff and Amy Matthews**
 - [ ] Never Split the Difference: Negotiating as if Your Life Depended on It by **Chris Voss**
 - [ ] A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market by **Edward O. Thorp**
 - [ ] The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution by **Gregory Zuckerman**
@@ -246,3 +253,4 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] How to Ikigai: Lessons for Finding Happiness and Living Your Life's Purpose by **Tim Tamashiro**
 - [ ] The Art of Deception: Controlling the Human Element of Security by **Kevin D. Mitnick**
 - [ ] The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers by **Kevin D. Mitnick**
+- [ ] Yoga: Die 108 wichtigsten Übungen und ihre ganzheitliche Wirkung by **Wanda Badwal**
