@@ -1,6 +1,6 @@
 # Books to read before I die
 
-**Current page count:** 3771
+**Current page count:** 3872
 
 **Current book count:** 15
 
@@ -159,6 +159,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Mastering Python for Finance: Implement advanced state-of-the-art financial statistical applications using Python, 2nd Edition by **James Ma Weiming**
 - [ ] Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by **Harry Percival**
 - [ ] Becoming a Better Programmer: A Handbook for People Who Care About Code by **Pete Goodliffe**
+- [ ] The Art of Readable Code: Simple and Practical Techniques for Writing Better Code by **Dustin Boswell and Trevor Foucher**
 
 ## Game Development
 
@@ -175,7 +176,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Mathematics
 
 - [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
-	* **Bookmark:** page 216
+	* **Bookmark:** page 292
 - [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
@@ -215,6 +216,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Business
 
 - [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
+	* **Bookmark:** page 81
 - [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
