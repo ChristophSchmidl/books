@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 3872
+**Current page count:** 4414
 
-**Current book count:** 15
+**Current book count:** 16
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -82,6 +82,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Thinking, Fast and Slow by **Daniel Kahneman**
 - [ ] How to Read a Book by **Mortimer J. Adler and Charles Van Doren**
 - [ ] The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness by **Jonas Salzgeber**
+- [ ] Turning Numbers Into Knowledge: Mastering the Art of Problem Solving by **Jonathan Garo Koomey**
 - [x] The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams by **Tommy Baker**
 	* 306 pages
 - [ ] Finish What You Start: The Art of Following Through, Taking Action, Executing, and Self-Discipline by **Peter Hollins**
@@ -104,8 +105,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Hundred-Page Machine Learning Book by **Andriy Burkov**
 - [ ] An Introduction to Statistical Learning: with Applications in R by **Gareth James**
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition by **Trevor Hastie** 
-- [ ] AI for Games, Third Edition by **Ian Millington**
-- [ ] Artificial Intelligence for Games by **Ian Millington**
+
 - [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
 - [ ] Learning TensorFlow: A Guide to Building Deep Learning Systems by **Tom Hope**
 - [ ] Machine Learning with Python Cookbook: Practical solutions from preprocessing to deep learning by **Chris Albon**
@@ -160,12 +160,18 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by **Harry Percival**
 - [ ] Becoming a Better Programmer: A Handbook for People Who Care About Code by **Pete Goodliffe**
 - [ ] The Art of Readable Code: Simple and Practical Techniques for Writing Better Code by **Dustin Boswell and Trevor Foucher**
+- [ ] Head First Design Patterns: A Brain-Friendly Guide by **Eric Freeman et al.**
 
 ## Game Development
 
 - [ ] Game Programming Patterns by **Robert Nystrom**
 - [ ] Game Physics Engine Development: How to Build a Robust Commercial-Grade Physics Engine for your Game. by **Ian Millington**
 - [ ] Game Engine Architecture, Second Edition by **Jason Gregory**
+- [ ] AI for Game Developers by **David M. Bourg**
+- [ ] AI for Games, Third Edition by **Ian Millington**
+- [ ] Artificial Intelligence for Games by **Ian Millington**
+- [ ] Programming Game AI By Example by **Mat Buckland**
+- [ ] Physics for Game Developers: Science, math, and code for realistic effects by **David M Bourg**
 
 ## General Research
 
@@ -175,8 +181,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Mathematics
 
-- [ ] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
-	* **Bookmark:** page 292
+- [x] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
+	* 488 pages
 - [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
@@ -199,6 +205,37 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Physics
 
 - [ ] Classical Mechanics: The Theoretical Minimum (Theoretical Minimum 1) by **Leonard Susskind and George Hrabovsky**
+
+## Electronics
+
+- [ ] Make: Electronics: Learning Through Discovery by **Charles Platt**
+- [ ] Make: More Electronics: Journey Deep Into the World of Logic Chips, Amplifiers, Sensors, and Randomicity by **Charles Platt**
+- [ ] Practical Electronics for Inventors by **Paul Scherz and Simon Monk**
+- [ ] The Basic Soldering Guide Handbook: Learn to solder electronics successfully by **Alan R Winstanley**
+- [ ] Beginner's Guide to Reading Schematics by **Stan Gibilisco**
+- [ ] Teach Yourself Electricity and Electronics by **Stan Gibilisco and Simon Monk**
+- [ ] How to Diagnose and Fix Everything Electronic by **Michael Jay Geier**
+- [ ] The Art of Electronics by **Paul Horowitz and Winfield Hill**
+- [ ] The Art of Electronics: The x Chapters by **Paul Horowitz and Winfield Hill**	
+- [ ] Learning the Art of Electronics: A Hands-On Lab Course by **Thomas C. Hayes and Paul Horowitz**
+- [ ] Electronic Devices, Global Edition by **Thomas L. Floyd**
+- [ ] Electronics All-in-One For Dummies (9 books in 1) by **Doug Lowe**
+- [ ] Electronics: A Systems Approach by **Neil Storey**
+- [ ] Encyclopedia of Electronic Components Volume 1: Resistors, Capacitors, Inductors, Switches, Encoders, Relays, Transistors by **Charles Platt**
+- [ ] Encyclopedia of Electronic Components Volume 2: LEDs, LCDs, Audio, Thyristors, Digital Logic, and Amplification by **Charles Platt and Fredrik Jansson**
+- [ ] Encyclopedia of Electronic Components Volume 3: Sensors for Location, Presence, Proximity, Orientation, Oscillation, Force, Load, Human Input, Liquid and Gas ... Light, Heat, Sound, and Electricity by **Charles Platt**
+- [ ] Elektronik für Dummies (german) by **Gerd Weichhaus**
+- [ ] Grundlagen der Elektrotechnik: Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester (german) by **Gert Hagmann**
+- [ ] Fachkunde Elektrotechnik (german) by **Horst Bumiller et al.**
+- [ ] Elektrotechnik einfach erklärt: Die Grundlagen im Handumdrehen verstehen (german) by **Tobias Tippelt**
+
+## Engineering
+
+- [ ] Fusion 360 for Makers: Design Your Own Digital Models for 3D Printing and CNC Fabrication by **Lydia Sloan Cline**
+- [ ] Make: 3D Printing: The Essential Guide to 3D Printers by **Anna Kaziunas France**
+- [ ] Designing 3D Printers: Essential Knowledge by **Neil Rosenber**
+- [ ] The 3D Printing Handbook: Technologies, design and applications by **Ben Redwood et al.**
+- [ ] Autodesk Fusion 360: A Power Guide for Beginners and Intermediate Users by **CADArtifex, John Willis, Sandeep Dogra**
 
 ## Medicine
 
