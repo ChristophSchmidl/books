@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 4604
+**Current page count:** 4738
 
-**Current book count:** 17
+**Current book count:** 18
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -185,7 +185,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [x] A Student’s Guide to Bayesian Statistics by **Ben Lambert**
 	* 488 pages
-- [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
+- [x] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
+	* 287 pages
+	* Appendix B "Enough Calculus to get by" is well written. Using running speed (mph) revovered from a faulty smart watch to calculate how many miles you run, is a nice example.
+	* Heavily describes the usage of the Beta distribution
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
 - [ ] Principles of Statistics by **M. G. Bulmer**
