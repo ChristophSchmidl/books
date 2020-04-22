@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 4414
+**Current page count:** 4604
 
-**Current book count:** 16
+**Current book count:** 17
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -48,6 +48,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 288 pages
 	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.	
 	* Note: Not worth the money. Way too long while the essentials could have been written on maybe 30 pages
+- [ ] The 4-Hour Workweek by **Timothy Ferriss**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**	
 - [ ] How to Study in College by **Ross J.Q. Owens and Pauk, Walter**	
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
@@ -74,7 +75,6 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
 - [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
-- [ ] The 4-Hour Workweek by **Timothy Ferriss**
 - [ ] The Organized Mind: Thinking Straight in the Age of Information Overload by **Daniel Levitin**
 - [ ] Ego is the Enemy: The Fight to Master Our Greatest Opponent by **Ryan Holiday**
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
@@ -127,6 +127,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Advances in Financial Machine Learning by **Marcos Lopez de Prado**
 - [ ] Hands-On Machine Learning for Algorithmic Trading: Design and implement investment strategies based on smart algorithms that learn from data using Python by **Stefan Jansen**
 - [ ] Machine Learning for Finance: Principles and practice for financial insiders by **Jannes Klaas**
+- [ ] Data Science from Scratch: First Principles with Python by **Joel Grus**
+- [ ] Mastering Machine Learning Algorithms: Expert techniques for implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work by **Giuseppe Bonaccorso**
 
 
 ## Programming
@@ -186,6 +188,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks by **Will Kurt**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
+- [ ] Principles of Statistics by **M. G. Bulmer**
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
 - [ ] Calculus for Dummies by **Mark Ryan**
 - [ ] Calculus Workbook For Dummies by **Mark Ryan**
@@ -201,6 +204,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Bayesian Data Analysis (Chapman & Hall / CRC Texts in Statistical Science) by **Andrew Gelman**
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Paul Wilmott Introduces Quantitative Finance by **Paul Wilmott**
+- [ ] How to Lie with Statistics by **Darrell Huff**
 
 ## Physics
 
@@ -249,11 +253,14 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Finance
 
 - [ ] Your Money: The Missing Manual by **J.D. Roth**
+- [ ] The Money Book for Freelancers, Part-Timers, and the Self-Employed: The Only Personal Finance System for People with Not-So-Regular Jobs by **Joseph D'Agnese and Denise Kiernan**
 
 ## Business
 
-- [ ] The Personal MBA: Master the Art of Business by **Josh Kaufman**
-	* **Bookmark:** page 81
+- [x] The Personal MBA: Master the Art of Business by **Josh Kaufman**
+	* 464 pages
+	* Interesting -> "APPENDIX A - HOW TO CONTINUE YOUR BUSINESS STUDIES"
+	* Interesting and print? -> "APPENDIX B - FORTY-NINE QUESTIONS TO IMPROVE YOUR RESULTS"
 - [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 
