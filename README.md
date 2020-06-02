@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 4738
+**Current page count:** 6290
 
-**Current book count:** 18
+**Current book count:** 21
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -48,7 +48,6 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 288 pages
 	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.	
 	* Note: Not worth the money. Way too long while the essentials could have been written on maybe 30 pages
-- [ ] The 4-Hour Workweek by **Timothy Ferriss**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**	
 - [ ] How to Study in College by **Ross J.Q. Owens and Pauk, Walter**	
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
@@ -105,7 +104,6 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Hundred-Page Machine Learning Book by **Andriy Burkov**
 - [ ] An Introduction to Statistical Learning: with Applications in R by **Gareth James**
 - [ ] The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition by **Trevor Hastie** 
-
 - [ ] Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by **Aurelien Geron**
 - [ ] Learning TensorFlow: A Guide to Building Deep Learning Systems by **Tom Hope**
 - [ ] Machine Learning with Python Cookbook: Practical solutions from preprocessing to deep learning by **Chris Albon**
@@ -118,6 +116,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Python Machine Learning - Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow by **Sebastian Raschka**
 - [ ] Introduction to Machine Learning with Python: A Guide for Data Scientists by **Sarah Guido**
 - [ ] Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play by **David Foster**
+- [ ] Deep Learning with Python by **Francois Chollet**
 - [x] Make your own Neural Network (german: Neuronale Netze selbst programmieren - Ein verständlicher Einstieg mit Python) by **Tariq Rashid**
 	* 222 pages
 - [ ] Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R by **Pratap Dangeti**
@@ -131,8 +130,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Mastering Machine Learning Algorithms: Expert techniques for implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work by **Giuseppe Bonaccorso**
 
 
-## Programming
+## Programming, Software Engineering
 
+- [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software by **Eric J. Evans**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship by **Robert C. Martin**
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers by **Robert C. Martin**
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design by **Robert C. Martin**
@@ -162,7 +162,12 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript by **Harry Percival**
 - [ ] Becoming a Better Programmer: A Handbook for People Who Care About Code by **Pete Goodliffe**
 - [ ] The Art of Readable Code: Simple and Practical Techniques for Writing Better Code by **Dustin Boswell and Trevor Foucher**
-- [ ] Head First Design Patterns: A Brain-Friendly Guide by **Eric Freeman et al.**
+- [ ] Head First Design Patterns: A Brain-Friendly Guide by **Eric Freeman et al.**l
+- [ ] Effective awk Programming: Universal Text Processing and Pattern Matching by **Arnold Robbins**
+- [ ] sed & awk (In a Nutshell) by **ale Dougherty and Arnold Robbins**
+- [ ] Classic Shell Scripting by **Arnold Robbins and Nelson H. F. Beebe**
+- [ ] Learning the vi and Vim Editors: Text Processing at Maximum Speed and Power by **Arnold Robbins, Elbert Hannah, et al.**
+- [ ] Practical Vim: Edit Text at the Speed of Thought by **Drew Neil**
 
 ## Game Development
 
@@ -190,6 +195,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* Appendix B "Enough Calculus to get by" is well written. Using running speed (mph) revovered from a faulty smart watch to calculate how many miles you run, is a nice example.
 	* Heavily describes the usage of the Beta distribution
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
+- [ ] Naked Statistics: Stripping the Dread from the Data by **Charles Wheelan**
 - [ ] Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by **Cameron Davidson-Pilon**
 - [ ] Principles of Statistics by **M. G. Bulmer**
 - [ ] Mathematical Methods for Physics and Engineering: A Comprehensive Guide by **K. F. Riley**
@@ -208,6 +214,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan by **John Kruschke**
 - [ ] Paul Wilmott Introduces Quantitative Finance by **Paul Wilmott**
 - [ ] How to Lie with Statistics by **Darrell Huff**
+- [ ] Engineering Mathematics: A Foundation for Electronic, Electrical, Communications & Systems Engineers by **Anthony Croft et al.**
+- [ ] Engineering Mathematics by **K.A. Stroud and Dexter Booth**
 
 ## Physics
 
@@ -257,6 +265,19 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 - [ ] Your Money: The Missing Manual by **J.D. Roth**
 - [ ] The Money Book for Freelancers, Part-Timers, and the Self-Employed: The Only Personal Finance System for People with Not-So-Regular Jobs by **Joseph D'Agnese and Denise Kiernan**
+- [ ] Cashkurs: So machen Sie das Beste aus Ihrem Geld: Aktien, Versicherungen, Immobilien by **Dirk Müller**
+- [ ] Cashflow Quadrant: Rich dad poor dad by **Robert T. Kiyosaki**
+- [x] Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by **Robert T. Kiyosaki**
+	* 240 pages
+- [ ] Dividenden Investor: Die Krise des Geldes und wie Sie mit Dividenden ein Vermögen aufbauen by **Patrick Schubert**
+- [ ] The Richest Man in Babylon by **George Samuel Clason**
+- [ ] Souverän investieren mit Indexfonds und ETFs: Wie Privatanleger das Spiel gegen die Finanzbranche gewinnen by **Gerd Kommer**
+- [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom by **Tony Robbins**
+- [ ] Die Revolution der Geldanlage: Wie Sie mit ETFs einfach Vermögen schaffen und fürs Alter vorsorgen by **Gottfried Heller**
+- [ ] Souverän investieren für Einsteiger. Wie Sie mit ETFs ein Vermögen bilden by **Gerd Kommer**
+- [ ] Der Finanzwesir 2.0 - Was Sie über Vermögensaufbau wirklich wissen müssen. Intelligent Geld anlegen und finanzielle Freiheit erlangen mit ETF und ... Funds eine solide Altersvorsorge aufbauen by **Albert Warnecke**
+- [ ] Die Kunst, über Geld nachzudenken by **André Kostolany**
+- [ ] Intelligent Investieren: Der Bestseller über die richtige Anlagestrategie by **Benjamin Graham**
 
 ## Business
 
@@ -264,9 +285,16 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 464 pages
 	* Interesting -> "APPENDIX A - HOW TO CONTINUE YOUR BUSINESS STUDIES"
 	* Interesting and print? -> "APPENDIX B - FORTY-NINE QUESTIONS TO IMPROVE YOUR RESULTS"
+- [x] The 4-Hour Workweek by **Timothy Ferriss**
+	* 416 pages
+- [x] Profit First - Transform Your Business from a Cash-Eating Monster to a Money-Making Machine by **Mike Michalowicz**
+	* 194 pages
+- [ ] The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field by **Mike Michalowicz**
+- [ ] The Toilet Paper Entrepreneur: The tell-it-like-it-is guide to cleaning up in business, even if you are at the end of your roll. by **Mike Michalowicz**
 - [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
-
+- [ ] Zero to One: Notes on Start Ups, or How to Build the Future by **Blake Masters and Peter Thiel**
+- [ ] The Remarkable Effect: The Essential Book for Tech-Entrepreneurs-on-a-Mission by **Ton Dobbe**
 
 ## Novels
 
