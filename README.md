@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 6290
+**Current page count:** 6746
 
-**Current book count:** 21
+**Current book count:** 23
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -63,7 +63,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Get Everything Done (And Still Have Time to Play) by **Mark Forster**
 - [ ] The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free Play by **Neil Fiore**
 - [ ] Flow: The Psychology of Optimal Experience by **Mihaly Csikszentmihalyi**
-- [ ] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by **Stephen R. Covey**
+- [x] The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change by **Stephen R. Covey**
+	* 464 pages
 - [ ] Mind Map Mastery: The Complete Guide to Learning and Using the Most Powerful Thinking Tool in the Universe by **Tony Buzan**
 - [x] One Small Step Can Change Your Life: The Kaizen Way by **Robert Maurer**
 	* 204 pages
@@ -266,9 +267,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Your Money: The Missing Manual by **J.D. Roth**
 - [ ] The Money Book for Freelancers, Part-Timers, and the Self-Employed: The Only Personal Finance System for People with Not-So-Regular Jobs by **Joseph D'Agnese and Denise Kiernan**
 - [ ] Cashkurs: So machen Sie das Beste aus Ihrem Geld: Aktien, Versicherungen, Immobilien by **Dirk Müller**
-- [ ] Cashflow Quadrant: Rich dad poor dad by **Robert T. Kiyosaki**
+- [x] Cashflow Quadrant: Rich dad poor dad by **Robert T. Kiyosaki**
+	* 374 pages
 - [x] Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! by **Robert T. Kiyosaki**
 	* 240 pages
+- [ ] Rich Dad's Guide to Investing: What the Rich Invest in, That the Poor and the Middle Class Do Not! by **Robert T. Kiyosaki**	
 - [ ] Dividenden Investor: Die Krise des Geldes und wie Sie mit Dividenden ein Vermögen aufbauen by **Patrick Schubert**
 - [ ] The Richest Man in Babylon by **George Samuel Clason**
 - [ ] Souverän investieren mit Indexfonds und ETFs: Wie Privatanleger das Spiel gegen die Finanzbranche gewinnen by **Gerd Kommer**
@@ -278,6 +281,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Der Finanzwesir 2.0 - Was Sie über Vermögensaufbau wirklich wissen müssen. Intelligent Geld anlegen und finanzielle Freiheit erlangen mit ETF und ... Funds eine solide Altersvorsorge aufbauen by **Albert Warnecke**
 - [ ] Die Kunst, über Geld nachzudenken by **André Kostolany**
 - [ ] Intelligent Investieren: Der Bestseller über die richtige Anlagestrategie by **Benjamin Graham**
+- [ ] Kaufen oder mieten?: Wie Sie für sich die richtige Entscheidung treffen by **Gerd Kommer**
+- [ ] Think and Grow Rich by **Napoleon Hill**
 
 ## Business
 
