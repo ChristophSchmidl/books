@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 6746
+**Current page count:** 7271
 
-**Current book count:** 23
+**Current book count:** 25
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -277,12 +277,14 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Souverän investieren mit Indexfonds und ETFs: Wie Privatanleger das Spiel gegen die Finanzbranche gewinnen by **Gerd Kommer**
 - [ ] MONEY Master the Game: 7 Simple Steps to Financial Freedom by **Tony Robbins**
 - [ ] Die Revolution der Geldanlage: Wie Sie mit ETFs einfach Vermögen schaffen und fürs Alter vorsorgen by **Gottfried Heller**
-- [ ] Souverän investieren für Einsteiger. Wie Sie mit ETFs ein Vermögen bilden by **Gerd Kommer**
+- [x] Souverän investieren für Einsteiger. Wie Sie mit ETFs ein Vermögen bilden by **Gerd Kommer**
+	* 372 pages
 - [ ] Der Finanzwesir 2.0 - Was Sie über Vermögensaufbau wirklich wissen müssen. Intelligent Geld anlegen und finanzielle Freiheit erlangen mit ETF und ... Funds eine solide Altersvorsorge aufbauen by **Albert Warnecke**
 - [ ] Die Kunst, über Geld nachzudenken by **André Kostolany**
 - [ ] Intelligent Investieren: Der Bestseller über die richtige Anlagestrategie by **Benjamin Graham**
 - [ ] Kaufen oder mieten?: Wie Sie für sich die richtige Entscheidung treffen by **Gerd Kommer**
 - [ ] Think and Grow Rich by **Napoleon Hill**
+
 
 ## Business
 
@@ -300,6 +302,13 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
 - [ ] Zero to One: Notes on Start Ups, or How to Build the Future by **Blake Masters and Peter Thiel**
 - [ ] The Remarkable Effect: The Essential Book for Tech-Entrepreneurs-on-a-Mission by **Ton Dobbe**
+
+## Taxes
+
+- [ ] Freiberufler - Fit fürs Finanzamt (Buchführung, Rechnungen, Steuern & Co.) by **Constanze Elter**
+- [x] Crashkurs Steuern - Für Kleinunternehmen und Freiberufler by **Andreas Görlich**
+	* 127 pages
+
 
 ## Novels
 
