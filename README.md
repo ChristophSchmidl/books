@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 7271
+**Current page count:** 8612
 
-**Current book count:** 25
+**Current book count:** 30
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -35,7 +35,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 
 
-## Time management, organization and motivation
+## Time management, organization, motivation, self improvement
 
 - [x] Pomodoro Technique Illustrated: Can You Focus - Really Focus - for 25 Minutes? by **Staffan Noteberg**
 	* German version: Die Pomodoro-Technik in der Praxis: Der einfache Weg, mehr in kürzerer Zeit zu erledigen
@@ -48,6 +48,9 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 288 pages
 	* It takes 10,000 hours to become an “expert in an ultra competitive field” but to go from “knowing nothing to being pretty good”, actually takes 20 hours. The equivalent of 45 minutes a day for a month.	
 	* Note: Not worth the money. Way too long while the essentials could have been written on maybe 30 pages
+- [x] The Procrastination Equation: How to Stop Putting Things Off and Start Getting Stuff Done by **Piers Steel**
+	* 352 pages	
+- [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
 - [ ] The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results by **Gary Keller**	
 - [ ] How to Study in College by **Ross J.Q. Owens and Pauk, Walter**	
 - [ ] Deep Work: Rules for Focused Success in a Distracted World by **Cal Newport**
@@ -74,7 +77,6 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Outliers: The Story of Success by **Malcolm Gladwell**
 - [ ] The Overflowing Brain: Information Overload and the Limits of Working Memory by **Torkel Klingberg**
 - [ ] Zen To Done: The Ultimate Simple Productivity System by **Leo Babauta**
-- [ ] Getting Things Done: The Art of Stress-Free Productivity by **David Allen**
 - [ ] The Organized Mind: Thinking Straight in the Age of Information Overload by **Daniel Levitin**
 - [ ] Ego is the Enemy: The Fight to Master Our Greatest Opponent by **Ryan Holiday**
 - [ ] The Obstacle is the Way: The Ancient Art of Turning Adversity to Advantage by **Ryan Holiday**
@@ -94,6 +96,10 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 266 pages
 - [x] Das Glück der kleinen Dinge by **Victoria Moran**	
 	* 247 pages
+- [ ] How To Win Friends And Influence People by **Dale Carnegie**	
+- [ ] The Power of Now by **Eckhart Tolle**
+- [ ] The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime! by **M. J. Demarco**
+- [ ] UNSCRIPTED: Life, Liberty, and the Pursuit of Entrepreneurship by **M. J. Demarco**
 
 ## Artificial Intelligence and Machine Learning
 
@@ -217,6 +223,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] How to Lie with Statistics by **Darrell Huff**
 - [ ] Engineering Mathematics: A Foundation for Electronic, Electrical, Communications & Systems Engineers by **Anthony Croft et al.**
 - [ ] Engineering Mathematics by **K.A. Stroud and Dexter Booth**
+- [ ] Infinite Powers: How Calculus Reveals the Secrets of the Universe by **Steven H. Strogatz**
+- [ ] Calculus: An Intuitive and Physical Approach (Second Edition) by **Morris Kline**
+- [ ] Calculus by **Michael Spivak**
+- [ ] The Calculus Lifesaver: All the Tools You Need to Excel at Calculus by **Adrian Banner**
+- [ ] Calculus: Concepts and Methods by **Ken Binmore and Joan Davies**
 
 ## Physics
 
@@ -261,6 +272,7 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 ## Communication
 
 - [ ] Steal the Show: From Speeches to Job Interviews to Deal-Closing Pitches, How to Guarantee a Standing Ovation for All the Performances in Your Life by **Michael Port**
+- [ ] Never Split the Difference: Negotiating as if Your Life Depended on It by **Chris Voss**
 
 ## Finance
 
@@ -296,16 +308,20 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 	* 416 pages
 - [x] Profit First - Transform Your Business from a Cash-Eating Monster to a Money-Making Machine by **Mike Michalowicz**
 	* 194 pages
-- [ ] The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field by **Mike Michalowicz**
+- [ ] Praxisbuch für Freiberufler by **Svenja Hofert**	
+- [x] The Pumpkin Plan: A Simple Strategy to Grow a Remarkable Business in Any Field by **Mike Michalowicz**
+	* 240 pages
 - [ ] The Toilet Paper Entrepreneur: The tell-it-like-it-is guide to cleaning up in business, even if you are at the end of your roll. by **Mike Michalowicz**
 - [ ] The Ten-Day MBA: A Step-by-Step Guide to Mastering the Skills Taught In America's Top Business Schools by **Steven Silbiger**
 - [ ] The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by **Eric Ries**
-- [ ] Zero to One: Notes on Start Ups, or How to Build the Future by **Blake Masters and Peter Thiel**
+- [x] Zero to One: Notes on Start Ups, or How to Build the Future by **Blake Masters and Peter Thiel**
+	* 224 pages
 - [ ] The Remarkable Effect: The Essential Book for Tech-Entrepreneurs-on-a-Mission by **Ton Dobbe**
 
 ## Taxes
 
-- [ ] Freiberufler - Fit fürs Finanzamt (Buchführung, Rechnungen, Steuern & Co.) by **Constanze Elter**
+- [x] Freiberufler - Fit fürs Finanzamt (Buchführung, Rechnungen, Steuern & Co.) by **Constanze Elter**
+	* 204 pages
 - [x] Crashkurs Steuern - Für Kleinunternehmen und Freiberufler by **Andreas Görlich**
 	* 127 pages
 
@@ -321,8 +337,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Others
 
+- [x] Die kleine ADHS-Sprechstunde: Einführung und Ratgeber für Patienten und Interessierte by **Gerrit Scherf**
 - [ ] Yoga Anatomy by **Leslie Kaminoff and Amy Matthews**
-- [ ] Never Split the Difference: Negotiating as if Your Life Depended on It by **Chris Voss**
 - [ ] A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market by **Edward O. Thorp**
 - [ ] The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution by **Gregory Zuckerman**
 - [ ] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win by **Gene Kim**
