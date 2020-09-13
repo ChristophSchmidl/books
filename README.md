@@ -1,8 +1,8 @@
 # Books to read before I die
 
-**Current page count:** 8612
+**Current page count:** 8690
 
-**Current book count:** 30
+**Current book count:** 31
 
 
 This is just a list of books that I found on my various journeys through the internet and found interesting. I have to say that most of the books are either time management or computer science related. So be warned!
@@ -139,7 +139,11 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 
 ## Programming, Software Engineering
 
+- [x] Flask Web Development: Developing Web Applications with Python by **Miguel Grinberg**
+	* 277 pages
+- [ ] The New And Improved Flask Mega-Tutorial by **Miguel Grinberg**
 - [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software by **Eric J. Evans**
+- [ ] Implementing Domain-Driven Design by **Vaughn Vernon**
 - [ ] Clean Code: A Handbook of Agile Software Craftsmanship by **Robert C. Martin**
 - [ ] The Clean Coder: A Code of Conduct for Professional Programmers by **Robert C. Martin**
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design by **Robert C. Martin**
@@ -159,7 +163,12 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Extreme Programming Explained: Embrace Change by **Kent Beck**
 - [ ] Software Architecture Fundamentals: A Study Guide for the Certified Professional for Software Architecture® – Foundation Level – iSAQB compliant by **Mahbouba Gharbi**
 - [ ] Designing Software Architectures: A Practical Approach by **Humberto Cervantes**
+- [ ] Fundamentals of Software Architecture: An Engineering Approach. A Comprehensive Guide to Patterns, Characteristics, and Best Practices by **Neal Ford, Mark Richards**
+- [ ] Software Architecture in Practice by **Len Bass, Paul Clements, Rick Kazman**
+- [ ] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith by **Sam Newman**
+- [ ] Building Evolutionary Architectures: Support Constant Change by **Neal Ford, Rebecca Parsons, Patrick Kua**
 - [ ] Patterns of Enterprise Application Architecture by **Martin Fowler**
+- [ ] Building Microservices: Designing Fine-Grained Systems by **Sam Newman**
 - [ ] Design Patterns. Elements of Reusable Object-Oriented Software by **Erich Gamma** 
 - [ ] Operating System Concepts (Ninth Edition) by **Abraham Silberschatz et al**
 	* **Bookmark:** page 12 - Chapter 1.3 "Computer-System Architecture"
@@ -175,6 +184,8 @@ For anyone who is interested in the Pomodoro technique, there are some books men
 - [ ] Classic Shell Scripting by **Arnold Robbins and Nelson H. F. Beebe**
 - [ ] Learning the vi and Vim Editors: Text Processing at Maximum Speed and Power by **Arnold Robbins, Elbert Hannah, et al.**
 - [ ] Practical Vim: Edit Text at the Speed of Thought by **Drew Neil**
+- [ ] The Hitchhiker's Guide to Python: Best Practices for Development by **Kenneth Reitz and Tanya Schlusser**
+- [ ] Monetizing Machine Learning: Quickly Turn Python ML Ideas into Web Applications on the Serverless Cloud by **Manuel Amunategui and Mehdi Roopaei**
 
 ## Game Development
 
